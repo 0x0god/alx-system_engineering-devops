@@ -1,1 +1,1 @@
-My first readme
+This is the Phase One Bash Basic Tasks for ALX
